@@ -1,0 +1,142 @@
+/* your styles go here */
+
+#headings{
+  text-transform: uppercase;
+  line-height: 1.5;
+  letter-spacing: 0.08em;
+  color: #fff;
+  padding-top: 10px;
+
+}
+.product-image{
+	overflow: hidden;
+	padding:0px;
+	left: 0;
+	
+}
+.boxess{
+    margin: 0px 0 20px;
+  
+}
+#doorbell1{
+  margin-top: -100px;
+  overflow: hidden;
+}
+#head-logo{
+ height: 400px;
+}
+#banner{
+  background-color: #38a7bb; 
+text-transform: uppercase;
+margin: 0;
+}
+
+#banner h1{
+  color: #fff;
+
+}
+#banner h2{
+  color: #fff;
+  padding-top: 0px;
+}
+#contact
+{
+  padding-top: 20px;
+}
+
+@media (min-width: @screen-xs-min) {
+.pull-right-xs {
+  float: left;
+}
+}
+
+#socio li{
+  display: inline;
+  list-style: none;
+  font-size: 50px;
+  padding-right:25px;
+
+}
+.contact-footer{
+ padding-left: 30%;
+}
+@media (max-width:770px){
+ .contact-footer{
+ padding-left: 0%;
+} 
+#socio{
+text-align: left;
+
+}
+.ceo-img{
+  padding-bottom: 10px!important;
+}
+
+}
+
+.main-head{
+  padding-bottom: 10px;
+  margin-top: 0px;
+
+}
+
+#top ul{
+  margin-bottom: 0px;
+}
+#main-head1{
+     
+    padding-bottom: 30px;
+    font-size: 3.5em;
+    font-weight: 500 !important;
+    letter-spacing: 2px !important;
+    visibility: visible;
+    animation-duration: 0.2s;
+    animation-name: pulse;
+    text-transform: none!important;
+}
+.home-carousel p{
+position: relative;
+top: -40px;
+}
+
+
+@media (max-width: 767px) {
+  
+  .slide-img{
+    height: 250px;
+  }
+
+}
+
+
+.navbar{
+
+  box-shadow: 0 0 5px #cccccc!important;
+}
+
+#menu li{
+  display: inline;
+  list-style: none;
+
+}
+#menu{
+  padding-left: 0px;
+
+}
+#query{
+  padding-left: 5px;
+}
+
+td {
+vertical-align:top;
+padding-left: 10px;
+}
+ .products{
+  padding: 20px 30px 20px 30px!important;
+ }
+
+ .gps3g{
+  background-color: #e2f3f6;
+ }
+
+
